@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://udaycodespace.github.io/credentials/">
+  <a href="https://udaycodespace.github.io/certifications/">
     <img src="https://img.shields.io/badge/Live%20Site-Visit%20Library-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Certificate Library" />
   </a>
   <img src="https://img.shields.io/badge/Certifications-19-0D9488?style=for-the-badge&logo=googlescholar&logoColor=white" alt="19 certifications" />
